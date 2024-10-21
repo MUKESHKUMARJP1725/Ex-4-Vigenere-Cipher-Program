@@ -1,4 +1,4 @@
-# Ex-4-Vigenere-Cipher-Program
+# Ex-4 Vigenere Cipher
 
 Vigenere Cipher using with different key values
 
